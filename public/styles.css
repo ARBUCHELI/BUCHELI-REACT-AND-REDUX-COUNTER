@@ -1,0 +1,49 @@
+html {
+    background-color: #556B2F;
+}
+
+img {
+    width: 150px;
+}
+  
+img.rounded-corners {
+    border-radius: 30px;
+}
+  
+.header {
+    text-align: center;
+    margin: 3em 260px 0px 260px;
+    padding: 0.5em 1em 0.5em 1em;
+    border-radius: 5px;
+    background-color: #bdcebe;  
+    border: solid white 7px;
+}
+  
+.h1-header {
+    font-family: impact;
+    color: #DAA520;
+    font-size: 3em;
+}
+
+#root {
+    text-align: center;
+    margin: 0px 260px 0px 260px;
+}
+
+button {
+    height: 60px;
+    width: 60px;
+    font-size: 50px;
+    font-weight: bold;
+    color: #556B2F;
+    background-color: white;
+    border: solid white;
+    border-radius: 3px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#counter {
+    margin-bottom: 1px;
+    font-weight: bold;
+}
